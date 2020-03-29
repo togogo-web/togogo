@@ -1,0 +1,8 @@
+{
+  "host": "http://localhost:8080",
+  "function": {
+    "main": [
+      "open-kb-site"
+    ]
+  }
+}

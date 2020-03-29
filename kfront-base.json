@@ -1,0 +1,15 @@
+{
+  "project": {
+    "projectName": "togogo-web",
+    "libVersion": "vue",
+    "uiLibs": [
+      "element-ui"
+    ]
+  },
+  "webpack": {
+    "projectName": [
+      "main"
+    ],
+    "commonPlugins": {}
+  }
+}
